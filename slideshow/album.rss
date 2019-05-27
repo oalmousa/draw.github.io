@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>رسوماتي</title>
+   	<link>.</link>
+        <generator>jAlbum 14.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.hostkda.com/</jalbum:absolutePath>
+        <item>
+            <title>1</title>
+            <link>http://www.hostkda.com/slides/1.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/1.jpg" width="124" height="106"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/1.jpg" width="808" height="688"/>
+            <guid isPermaLink="false">slides/1.jpg</guid>
+        </item>
+        <item>
+            <title>2</title>
+            <link>http://www.hostkda.com/slides/2.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/2.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/2.jpg" width="768" height="1024"/>
+            <guid isPermaLink="false">slides/2.jpg</guid>
+        </item>
+        <item>
+            <title>3</title>
+            <link>http://www.hostkda.com/slides/3.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/3.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/3.jpg" width="1280" height="958"/>
+            <guid isPermaLink="false">slides/3.jpg</guid>
+        </item>
+        <item>
+            <title>4</title>
+            <link>http://www.hostkda.com/slides/4.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/4.jpg" width="124" height="89"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/4.jpg" width="1504" height="1080"/>
+            <guid isPermaLink="false">slides/4.jpg</guid>
+        </item>
+        <item>
+            <title>5</title>
+            <link>http://www.hostkda.com/slides/5.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/5.jpg" width="124" height="75"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/5.jpg" width="1600" height="969"/>
+            <guid isPermaLink="false">slides/5.jpg</guid>
+        </item>
+        <item>
+            <title>6</title>
+            <link>http://www.hostkda.com/slides/6.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/6.jpg" width="78" height="124"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/6.jpg" width="678" height="1080"/>
+            <guid isPermaLink="false">slides/6.jpg</guid>
+        </item>
+        <item>
+            <title>7</title>
+            <link>http://www.hostkda.com/slides/7.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/7.jpg" width="91" height="124"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/7.jpg" width="794" height="1080"/>
+            <guid isPermaLink="false">slides/7.jpg</guid>
+        </item>
+        <item>
+            <title>8</title>
+            <link>http://www.hostkda.com/slides/8.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/8.jpg" width="124" height="99"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/8.jpg" width="1352" height="1080"/>
+            <guid isPermaLink="false">slides/8.jpg</guid>
+        </item>
+        <item>
+            <title>9</title>
+            <link>http://www.hostkda.com/slides/9.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/9.jpg" width="124" height="100"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/9.jpg" width="1340" height="1080"/>
+            <guid isPermaLink="false">slides/9.jpg</guid>
+        </item>
+        <item>
+            <title>10</title>
+            <link>http://www.hostkda.com/slides/10.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/10.jpg" width="124" height="102"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/10.jpg" width="1265" height="1044"/>
+            <guid isPermaLink="false">slides/10.jpg</guid>
+        </item>
+        <item>
+            <title>11</title>
+            <link>http://www.hostkda.com/slides/11.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/11.jpg" width="124" height="49"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/11.jpg" width="1280" height="506"/>
+            <guid isPermaLink="false">slides/11.jpg</guid>
+        </item>
+        <item>
+            <title>12</title>
+            <link>http://www.hostkda.com/slides/12.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/12.jpg" width="83" height="124"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/12.jpg" width="722" height="1080"/>
+            <guid isPermaLink="false">slides/12.jpg</guid>
+        </item>
+        <item>
+            <title>13</title>
+            <link>http://www.hostkda.com/slides/13.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/13.jpg" width="100" height="124"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/13.jpg" width="871" height="1080"/>
+            <guid isPermaLink="false">slides/13.jpg</guid>
+        </item>
+        <item>
+            <title>14</title>
+            <link>http://www.hostkda.com/slides/14.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/14.jpg" width="124" height="90"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/14.jpg" width="1495" height="1080"/>
+            <guid isPermaLink="false">slides/14.jpg</guid>
+        </item>
+        <item>
+            <title>15</title>
+            <link>http://www.hostkda.com/slides/15.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/15.jpg" width="124" height="88"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/15.jpg" width="1529" height="1080"/>
+            <guid isPermaLink="false">slides/15.jpg</guid>
+        </item>
+        <item>
+            <title>16</title>
+            <link>http://www.hostkda.com/slides/16.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/16.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/16.jpg" width="1080" height="1080"/>
+            <guid isPermaLink="false">slides/16.jpg</guid>
+        </item>
+        <item>
+            <title>17</title>
+            <link>http://www.hostkda.com/slides/17.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/17.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/17.jpg" width="810" height="1080"/>
+            <guid isPermaLink="false">slides/17.jpg</guid>
+        </item>
+        <item>
+            <title>18</title>
+            <link>http://www.hostkda.com/slides/18.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/18.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/18.jpg" width="810" height="1080"/>
+            <guid isPermaLink="false">slides/18.jpg</guid>
+        </item>
+        <item>
+            <title>19</title>
+            <link>http://www.hostkda.com/slides/19.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/19.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/19.jpg" width="1080" height="1080"/>
+            <guid isPermaLink="false">slides/19.jpg</guid>
+        </item>
+        <item>
+            <title>21</title>
+            <link>http://www.hostkda.com/slides/21.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/21.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/21.jpg" width="810" height="1080"/>
+            <guid isPermaLink="false">slides/21.jpg</guid>
+        </item>
+        <item>
+            <title>22</title>
+            <link>http://www.hostkda.com/slides/22.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/22.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/22.jpg" width="1080" height="1080"/>
+            <guid isPermaLink="false">slides/22.jpg</guid>
+        </item>
+        <item>
+            <title>23</title>
+            <link>http://www.hostkda.com/slides/23.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/23.jpg" width="124" height="99"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/23.jpg" width="1347" height="1080"/>
+            <guid isPermaLink="false">slides/23.jpg</guid>
+        </item>
+        <item>
+            <title>24</title>
+            <link>http://www.hostkda.com/slides/24.jpg</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/24.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/24.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/24.jpg</guid>
+        </item>
+        <item>
+            <title>25</title>
+            <link>http://www.hostkda.com/slides/25.JPG</link>
+            <pubDate>Mon, 27 May 2019 18:01:35 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.hostkda.com/thumbs/25.JPG" width="124" height="89"/>
+            <media:content type="image/jpeg" url="http://www.hostkda.com/slides/25.JPG" width="1024" height="735"/>
+            <guid isPermaLink="false">slides/25.JPG</guid>
+        </item>
+    </channel>
+</rss>
